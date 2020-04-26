@@ -38,7 +38,7 @@ export const Form = styled.form<FormProps>`
     font-weight: bold;
     transition: background 0.2s;
     &:hover {
-      background: ${darken(0.03, '#04d361')};
+      background: ${darken(0.03, '#4b0082')};
     }
   }
 `;
